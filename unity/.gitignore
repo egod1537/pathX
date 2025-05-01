@@ -1,0 +1,66 @@
+# ========== Unity 기본 ==========
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+Assets/AssetStoreTools*
+
+# ========== IDE 설정 ==========
+
+# VS / Rider / VSCode
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.suo
+*.unityproj
+
+# ========== OS 별 잡파일 ==========
+
+.DS_Store
+*.swp
+*.bak
+*.tmp
+*.orig
+*.old
+
+# ========== 기타 설정 파일 ==========
+
+# Unity Collaborate
+.collabignore
+.collab/
+
+# Auto-generated
+ExportedObj/
+*.apk
+*.aab
+*.unitypackage
+
+# Rider 분석 DB
+/.idea/
+.idea/
+
+# VS Rider 분석 캐시
+.vs/
+.vscode/
+*.pidb
+*.booproj
+*.sln.DotSettings.user
+
+# Crash / profiling
+*.stacktrace
+*.dmp
+*.pdb
+
+# ========== 개인 설정 ==========
+
+# User-specific configs (NEVER commit!)
+*.userprefs
+*.prefs
+*.wlt
