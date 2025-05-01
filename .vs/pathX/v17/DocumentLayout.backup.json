@@ -3,12 +3,91 @@
   "WorkspaceRootPath": "C:\\Desktop\\pathX\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\Core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:Core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\CHelloWorldText.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:CHelloWorldText.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\CTestCanvas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:CTestCanvas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\CHelloWorldText.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:CHelloWorldText.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\ImWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:ImWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\WHelloWorld.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:WHelloWorld.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\WHelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:WHelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\CoreInitializer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:CoreInitializer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\WCanvas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:WCanvas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.43.34808\\INCLUDE\\MEMORY||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\WCanvas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:WCanvas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\ImWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:ImWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\UserComponents.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:UserComponents.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\CTestCanvas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:CTestCanvas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\UserImWindows.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:UserImWindows.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\ImWindow.inl||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:ImWindow.inl||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\ImGuiBuild.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:ImGuiBuild.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +97,219 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImWindow.h",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\ImWindow.h",
+              "RelativeDocumentMoniker": "ImWindow.h",
+              "ToolTip": "C:\\Desktop\\pathX\\ImWindow.h",
+              "RelativeToolTip": "ImWindow.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T12:42:45.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WHelloWorld.h",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\WHelloWorld.h",
+              "RelativeDocumentMoniker": "WHelloWorld.h",
+              "ToolTip": "C:\\Desktop\\pathX\\WHelloWorld.h",
+              "RelativeToolTip": "WHelloWorld.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T12:32:09.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CTestCanvas.cpp",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\CTestCanvas.cpp",
+              "RelativeDocumentMoniker": "CTestCanvas.cpp",
+              "ToolTip": "C:\\Desktop\\pathX\\CTestCanvas.cpp",
+              "RelativeToolTip": "CTestCanvas.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-01T12:53:39.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CHelloWorldText.h",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\CHelloWorldText.h",
+              "RelativeDocumentMoniker": "CHelloWorldText.h",
+              "ToolTip": "C:\\Desktop\\pathX\\CHelloWorldText.h",
+              "RelativeToolTip": "CHelloWorldText.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T12:39:44.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoreInitializer.h",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\CoreInitializer.h",
+              "RelativeDocumentMoniker": "CoreInitializer.h",
+              "ToolTip": "C:\\Desktop\\pathX\\CoreInitializer.h",
+              "RelativeToolTip": "CoreInitializer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T12:27:19.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WCanvas.cpp",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\WCanvas.cpp",
+              "RelativeDocumentMoniker": "WCanvas.cpp",
+              "ToolTip": "C:\\Desktop\\pathX\\WCanvas.cpp",
+              "RelativeToolTip": "WCanvas.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-01T12:52:29.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WCanvas.h",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\WCanvas.h",
+              "RelativeDocumentMoniker": "WCanvas.h",
+              "ToolTip": "C:\\Desktop\\pathX\\WCanvas.h",
+              "RelativeToolTip": "WCanvas.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T12:52:00.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "memory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\memory",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\memory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\memory",
+              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\memory",
+              "ViewState": "AgIAAPUNAAAAAAAAAAAAAAkOAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-01T13:00:33.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserComponents.h",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\UserComponents.h",
+              "RelativeDocumentMoniker": "UserComponents.h",
+              "ToolTip": "C:\\Desktop\\pathX\\UserComponents.h",
+              "RelativeToolTip": "UserComponents.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T12:53:28.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CTestCanvas.h",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\CTestCanvas.h",
+              "RelativeDocumentMoniker": "CTestCanvas.h",
+              "ToolTip": "C:\\Desktop\\pathX\\CTestCanvas.h",
+              "RelativeToolTip": "CTestCanvas.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T12:53:26.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserImWindows.h",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\UserImWindows.h",
+              "RelativeDocumentMoniker": "UserImWindows.h",
+              "ToolTip": "C:\\Desktop\\pathX\\UserImWindows.h",
+              "RelativeToolTip": "UserImWindows.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T12:34:48.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Core.h",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\Core.h",
+              "RelativeDocumentMoniker": "Core.h",
+              "ToolTip": "C:\\Desktop\\pathX\\Core.h",
+              "RelativeToolTip": "Core.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T11:55:44.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ImWindow.inl",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\ImWindow.inl",
+              "RelativeDocumentMoniker": "ImWindow.inl",
+              "ToolTip": "C:\\Desktop\\pathX\\ImWindow.inl",
+              "RelativeToolTip": "ImWindow.inl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-01T12:47:49.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Desktop\\pathX\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-01T11:11:14.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.h",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\User.h",
+              "RelativeDocumentMoniker": "User.h",
+              "ToolTip": "C:\\Desktop\\pathX\\User.h",
+              "RelativeToolTip": "User.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T12:34:54.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Component.h",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\Component.h",
+              "RelativeDocumentMoniker": "Component.h",
+              "ToolTip": "C:\\Desktop\\pathX\\Component.h",
+              "RelativeToolTip": "Component.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T12:00:18.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "ImGuiBuild.cpp",
               "DocumentMoniker": "C:\\Desktop\\pathX\\ImGuiBuild.cpp",
               "RelativeDocumentMoniker": "ImGuiBuild.cpp",
@@ -35,15 +322,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Desktop\\pathX\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Desktop\\pathX\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAuwI4AAAAbAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "Component.cpp",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\Component.cpp",
+              "RelativeDocumentMoniker": "Component.cpp",
+              "ToolTip": "C:\\Desktop\\pathX\\Component.cpp",
+              "RelativeToolTip": "Component.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-01T11:11:14.429Z",
+              "WhenOpened": "2025-05-01T12:00:22.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ImWindow.cpp",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\ImWindow.cpp",
+              "RelativeDocumentMoniker": "ImWindow.cpp",
+              "ToolTip": "C:\\Desktop\\pathX\\ImWindow.cpp",
+              "RelativeToolTip": "ImWindow.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-01T12:45:55.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WHelloWorld.cpp",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\WHelloWorld.cpp",
+              "RelativeDocumentMoniker": "WHelloWorld.cpp",
+              "ToolTip": "C:\\Desktop\\pathX\\WHelloWorld.cpp",
+              "RelativeToolTip": "WHelloWorld.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-01T12:34:09.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Core.cpp",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\Core.cpp",
+              "RelativeDocumentMoniker": "Core.cpp",
+              "ToolTip": "C:\\Desktop\\pathX\\Core.cpp",
+              "RelativeToolTip": "Core.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-01T11:55:55.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CHelloWorldText.cpp",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\CHelloWorldText.cpp",
+              "RelativeDocumentMoniker": "CHelloWorldText.cpp",
+              "ToolTip": "C:\\Desktop\\pathX\\CHelloWorldText.cpp",
+              "RelativeToolTip": "CHelloWorldText.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-01T12:40:37.524Z",
               "EditorCaption": ""
             }
           ]

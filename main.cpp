@@ -9,6 +9,9 @@
 #pragma comment(lib, "d3dcompiler.lib")
 #pragma comment(lib, "dxgi.lib")
 
+#include "Core.h"
+#include "CoreInitializer.h"
+
 // DirectX globals
 ID3D11Device* g_pd3dDevice = nullptr;
 ID3D11DeviceContext* g_pd3dDeviceContext = nullptr;
@@ -62,6 +65,9 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE, LPSTR, int)
     ImGui_ImplWin32_Init(hwnd);
     ImGui_ImplDX11_Init(g_pd3dDevice, g_pd3dDeviceContext);
 
+    Core* core = new Core();
+    CoreInitialize(core);
+
     // Main loop
     MSG msg;
     ZeroMemory(&msg, sizeof(msg));
@@ -77,10 +83,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE, LPSTR, int)
         ImGui_ImplWin32_NewFrame();
         ImGui::NewFrame();
 
-        // UI
-        ImGui::Begin("Hello");
-        ImGui::Text("This is ImGui with DirectX11.");
-        ImGui::End();
+        core->Update();
 
         ImGui::Render();
         const float clear_color[4] = { 0.1f, 0.1f, 0.1f, 1.00f };

@@ -130,8 +130,32 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CHelloWorldText.cpp" />
+    <ClCompile Include="Component.cpp" />
+    <ClCompile Include="Core.cpp" />
+    <ClCompile Include="CTestCanvas.cpp" />
     <ClCompile Include="ImGuiBuild.cpp" />
+    <ClCompile Include="ImWindow.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="WCanvas.cpp" />
+    <ClCompile Include="WHelloWorld.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CHelloWorldText.h" />
+    <ClInclude Include="Component.h" />
+    <ClInclude Include="Core.h" />
+    <ClInclude Include="CoreInitializer.h" />
+    <ClInclude Include="CTestCanvas.h" />
+    <ClInclude Include="ImWindow.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="User.h" />
+    <ClInclude Include="UserComponents.h" />
+    <ClInclude Include="UserImWindows.h" />
+    <ClInclude Include="WCanvas.h" />
+    <ClInclude Include="WHelloWorld.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ImWindow.inl" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
