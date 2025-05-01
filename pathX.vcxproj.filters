@@ -55,77 +55,101 @@
     <Filter Include="소스 파일\User\ImWindows">
       <UniqueIdentifier>{601837d3-59df-4964-8eaa-67f5d3e97cef}</UniqueIdentifier>
     </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{de3f6a06-b513-463d-b84f-3934f2731d65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Engine">
+      <UniqueIdentifier>{2f2bc9fa-acdc-4515-bda2-f3cd71013fb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\User">
+      <UniqueIdentifier>{65d514ce-a1e5-478c-9471-9617e5889676}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\User\Components">
+      <UniqueIdentifier>{8bb5d6a7-a508-4b98-85ee-35adc1b7b27b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\User\ImWindows">
+      <UniqueIdentifier>{10b67397-1b43-44c1-a681-cfd298e7f957}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Engine\Component">
+      <UniqueIdentifier>{28d6e13b-4dec-4e38-9ab9-fe4b5548434c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Engine\Core">
+      <UniqueIdentifier>{f589b6eb-fda3-453e-9e39-14a4545fe44f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Engine\ImWindow">
+      <UniqueIdentifier>{0a4e0b5e-96cd-4a26-a47d-01e30df31855}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Component.cpp">
-      <Filter>소스 파일\Engine\Component</Filter>
+    <ClCompile Include="src\CHelloWorldText.cpp">
+      <Filter>src\User\Components</Filter>
     </ClCompile>
-    <ClCompile Include="ImGuiBuild.cpp">
-      <Filter>소스 파일\Engine</Filter>
+    <ClCompile Include="src\Component.cpp">
+      <Filter>src\Engine\Component</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
-      <Filter>소스 파일\Engine</Filter>
+    <ClCompile Include="src\Core.cpp">
+      <Filter>src\Engine\Core</Filter>
     </ClCompile>
-    <ClCompile Include="Core.cpp">
-      <Filter>소스 파일\Engine\Core</Filter>
+    <ClCompile Include="src\CTestCanvas.cpp">
+      <Filter>src\User\Components</Filter>
     </ClCompile>
-    <ClCompile Include="WHelloWorld.cpp">
-      <Filter>소스 파일\User\ImWindows</Filter>
+    <ClCompile Include="src\ImGuiBuild.cpp">
+      <Filter>src\Engine</Filter>
     </ClCompile>
-    <ClCompile Include="CHelloWorldText.cpp">
-      <Filter>소스 파일\User\Components</Filter>
+    <ClCompile Include="src\ImWindow.cpp">
+      <Filter>src\Engine\ImWindow</Filter>
     </ClCompile>
-    <ClCompile Include="ImWindow.cpp">
-      <Filter>소스 파일\Engine\ImWindow</Filter>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="WCanvas.cpp">
-      <Filter>소스 파일\User\ImWindows</Filter>
+    <ClCompile Include="src\WCanvas.cpp">
+      <Filter>src\User\ImWindows</Filter>
     </ClCompile>
-    <ClCompile Include="CTestCanvas.cpp">
-      <Filter>소스 파일\User\Components</Filter>
+    <ClCompile Include="src\WHelloWorld.cpp">
+      <Filter>src\User\ImWindows</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Component.h">
-      <Filter>헤더 파일\Engine\Component</Filter>
+    <ClInclude Include="src\CHelloWorldText.h">
+      <Filter>src\User\Components</Filter>
     </ClInclude>
-    <ClInclude Include="ImWindow.h">
-      <Filter>헤더 파일\Engine\ImWindow</Filter>
+    <ClInclude Include="src\Component.h">
+      <Filter>src\Engine\Component</Filter>
     </ClInclude>
-    <ClInclude Include="Core.h">
-      <Filter>헤더 파일\Engine\Core</Filter>
+    <ClInclude Include="src\Core.h">
+      <Filter>src\Engine\Core</Filter>
     </ClInclude>
-    <ClInclude Include="stdafx.h">
-      <Filter>헤더 파일\Engine</Filter>
+    <ClInclude Include="src\CoreInitializer.h">
+      <Filter>src\Engine\Core</Filter>
     </ClInclude>
-    <ClInclude Include="CoreInitializer.h">
-      <Filter>헤더 파일\Engine\Core</Filter>
+    <ClInclude Include="src\CTestCanvas.h">
+      <Filter>src\User\Components</Filter>
     </ClInclude>
-    <ClInclude Include="WHelloWorld.h">
-      <Filter>헤더 파일\User\ImWindows</Filter>
+    <ClInclude Include="src\ImWindow.h">
+      <Filter>src\Engine\ImWindow</Filter>
     </ClInclude>
-    <ClInclude Include="UserComponents.h">
-      <Filter>헤더 파일\User\Components</Filter>
+    <ClInclude Include="src\stdafx.h">
+      <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="UserImWindows.h">
-      <Filter>헤더 파일\User\ImWindows</Filter>
+    <ClInclude Include="src\User.h">
+      <Filter>src\User</Filter>
     </ClInclude>
-    <ClInclude Include="User.h">
-      <Filter>헤더 파일\User</Filter>
+    <ClInclude Include="src\UserComponents.h">
+      <Filter>src\User\Components</Filter>
     </ClInclude>
-    <ClInclude Include="CHelloWorldText.h">
-      <Filter>헤더 파일\User\Components</Filter>
+    <ClInclude Include="src\UserImWindows.h">
+      <Filter>src\User\ImWindows</Filter>
     </ClInclude>
-    <ClInclude Include="WCanvas.h">
-      <Filter>헤더 파일\User\ImWindows</Filter>
+    <ClInclude Include="src\WCanvas.h">
+      <Filter>src\User\ImWindows</Filter>
     </ClInclude>
-    <ClInclude Include="CTestCanvas.h">
-      <Filter>헤더 파일\User\Components</Filter>
+    <ClInclude Include="src\WHelloWorld.h">
+      <Filter>src\User\ImWindows</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="ImWindow.inl">
-      <Filter>소스 파일\Engine\ImWindow</Filter>
+    <None Include="src\ImWindow.inl">
+      <Filter>src\Engine\ImWindow</Filter>
     </None>
   </ItemGroup>
 </Project>

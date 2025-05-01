@@ -18,6 +18,34 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\CHelloWorldText.cpp" />
+    <ClCompile Include="src\Component.cpp" />
+    <ClCompile Include="src\Core.cpp" />
+    <ClCompile Include="src\CTestCanvas.cpp" />
+    <ClCompile Include="src\ImGuiBuild.cpp" />
+    <ClCompile Include="src\ImWindow.cpp" />
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\WCanvas.cpp" />
+    <ClCompile Include="src\WHelloWorld.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\CHelloWorldText.h" />
+    <ClInclude Include="src\Component.h" />
+    <ClInclude Include="src\Core.h" />
+    <ClInclude Include="src\CoreInitializer.h" />
+    <ClInclude Include="src\CTestCanvas.h" />
+    <ClInclude Include="src\ImWindow.h" />
+    <ClInclude Include="src\stdafx.h" />
+    <ClInclude Include="src\User.h" />
+    <ClInclude Include="src\UserComponents.h" />
+    <ClInclude Include="src\UserImWindows.h" />
+    <ClInclude Include="src\WCanvas.h" />
+    <ClInclude Include="src\WHelloWorld.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\ImWindow.inl" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -129,34 +157,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="CHelloWorldText.cpp" />
-    <ClCompile Include="Component.cpp" />
-    <ClCompile Include="Core.cpp" />
-    <ClCompile Include="CTestCanvas.cpp" />
-    <ClCompile Include="ImGuiBuild.cpp" />
-    <ClCompile Include="ImWindow.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="WCanvas.cpp" />
-    <ClCompile Include="WHelloWorld.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="CHelloWorldText.h" />
-    <ClInclude Include="Component.h" />
-    <ClInclude Include="Core.h" />
-    <ClInclude Include="CoreInitializer.h" />
-    <ClInclude Include="CTestCanvas.h" />
-    <ClInclude Include="ImWindow.h" />
-    <ClInclude Include="stdafx.h" />
-    <ClInclude Include="User.h" />
-    <ClInclude Include="UserComponents.h" />
-    <ClInclude Include="UserImWindows.h" />
-    <ClInclude Include="WCanvas.h" />
-    <ClInclude Include="WHelloWorld.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="ImWindow.inl" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
