@@ -1,0 +1,3 @@
+[submodule "extern/CDT"]
+	path = extern/CDT
+	url = https://github.com/artem-ogre/CDT.git

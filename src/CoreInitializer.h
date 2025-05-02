@@ -16,8 +16,14 @@ std::unique_ptr<ImWindow> CreateCanvasWindow() {
 	return window;
 }
 
+std::unique_ptr<ImWindow> CreateDelaunayWindow() {
+	auto window = std::make_unique<WDelaunay>("Delaunay");
+	return window;
+}
+
 void CoreInitialize(Core* core) {
 	core->AddWindow(CreateHelloWorldWindow());
 	core->AddWindow(CreateCanvasWindow());
+	core->AddWindow(CreateDelaunayWindow());
 }
 

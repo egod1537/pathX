@@ -1,3 +1,4 @@
+#include <iostream>
 #include <windows.h>
 #include <d3d11.h>
 #include <tchar.h>
@@ -23,6 +24,7 @@ bool CreateDeviceD3D(HWND hWnd);
 void CleanupDeviceD3D();
 void CreateRenderTarget();
 void CleanupRenderTarget();
+void OpenConsole();
 extern LRESULT ImGui_ImplWin32_WndProcHandler(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam);
 
 // Win32 message handler
@@ -36,6 +38,8 @@ LRESULT WINAPI WndProc(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam)
 // Entry point
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE, LPSTR, int)
 {
+    OpenConsole();
+
     WNDCLASSEX wc = {
         sizeof(WNDCLASSEX), CS_CLASSDC, WndProc, 0L, 0L,
         GetModuleHandle(NULL), NULL, NULL, NULL, NULL,
@@ -150,3 +154,18 @@ void CleanupRenderTarget()
 {
     if (g_mainRenderTargetView) { g_mainRenderTargetView->Release(); g_mainRenderTargetView = NULL; }
 }
+
+void OpenConsole() {
+    AllocConsole(); // 콘솔 할당
+    FILE* stream;
+    freopen_s(&stream, "CONOUT$", "w", stdout);  // stdout 리디렉션
+    freopen_s(&stream, "CONOUT$", "w", stderr);  // stderr 리디렉션
+    freopen_s(&stream, "CONIN$", "r", stdin);    // stdin 리디렉션
+
+    std::cout.clear();
+    std::cerr.clear();
+    std::cin.clear();
+
+    std::cout << "Open Console" << std::endl;
+}
+

@@ -13,18 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\Engine">
-      <UniqueIdentifier>{7f9b477d-911f-41ad-b0d0-e5d1dacfc554}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Engine\Component">
-      <UniqueIdentifier>{47fe2d6b-63ee-442d-a4df-f6bbd5e20faf}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Engine\ImWindow">
-      <UniqueIdentifier>{97542999-aa86-4bde-b601-db61d26db9c7}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Engine\Core">
-      <UniqueIdentifier>{47ff9c1f-025d-49e4-8716-03cde1ecbe14}</UniqueIdentifier>
-    </Filter>
     <Filter Include="헤더 파일\Engine">
       <UniqueIdentifier>{6ca70b0c-687d-4ed4-b010-3c9bd12af57b}</UniqueIdentifier>
     </Filter>
@@ -40,116 +28,134 @@
     <Filter Include="헤더 파일\User">
       <UniqueIdentifier>{5c2c7932-7f1f-4591-a260-0565faa96097}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\User">
-      <UniqueIdentifier>{7f77faf0-9497-4bec-a1ef-7c7de7a41f8a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\User\Components">
-      <UniqueIdentifier>{40946ddd-47cc-4823-b5c6-7ec2be966b39}</UniqueIdentifier>
-    </Filter>
     <Filter Include="헤더 파일\User\Components">
       <UniqueIdentifier>{55f24f13-969b-424e-9f75-5d1b67ce22a5}</UniqueIdentifier>
     </Filter>
     <Filter Include="헤더 파일\User\ImWindows">
       <UniqueIdentifier>{6243337c-2cca-42f9-86dd-6186d8d0f857}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\User\ImWindows">
-      <UniqueIdentifier>{601837d3-59df-4964-8eaa-67f5d3e97cef}</UniqueIdentifier>
-    </Filter>
     <Filter Include="src">
       <UniqueIdentifier>{de3f6a06-b513-463d-b84f-3934f2731d65}</UniqueIdentifier>
     </Filter>
-    <Filter Include="src\Engine">
+    <Filter Include="src\includes">
+      <UniqueIdentifier>{87648d19-2962-4107-b1ea-e18177cf0c53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\visualizer">
+      <UniqueIdentifier>{e2d827b3-a2b4-4be0-92dd-d12475f5b834}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\visualizer\engine">
       <UniqueIdentifier>{2f2bc9fa-acdc-4515-bda2-f3cd71013fb0}</UniqueIdentifier>
     </Filter>
-    <Filter Include="src\User">
-      <UniqueIdentifier>{65d514ce-a1e5-478c-9471-9617e5889676}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="src\User\Components">
-      <UniqueIdentifier>{8bb5d6a7-a508-4b98-85ee-35adc1b7b27b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="src\User\ImWindows">
-      <UniqueIdentifier>{10b67397-1b43-44c1-a681-cfd298e7f957}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="src\Engine\Component">
+    <Filter Include="src\visualizer\engine\Component">
       <UniqueIdentifier>{28d6e13b-4dec-4e38-9ab9-fe4b5548434c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="src\Engine\Core">
+    <Filter Include="src\visualizer\engine\Core">
       <UniqueIdentifier>{f589b6eb-fda3-453e-9e39-14a4545fe44f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="src\Engine\ImWindow">
+    <Filter Include="src\visualizer\engine\ImWindow">
       <UniqueIdentifier>{0a4e0b5e-96cd-4a26-a47d-01e30df31855}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\visualizer\user">
+      <UniqueIdentifier>{65d514ce-a1e5-478c-9471-9617e5889676}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\visualizer\user\Components">
+      <UniqueIdentifier>{8bb5d6a7-a508-4b98-85ee-35adc1b7b27b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\visualizer\user\ImWindows">
+      <UniqueIdentifier>{10b67397-1b43-44c1-a681-cfd298e7f957}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\pathfind">
+      <UniqueIdentifier>{53d44a2d-6d27-4376-929c-2358517ff690}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\CHelloWorldText.cpp">
-      <Filter>src\User\Components</Filter>
+      <Filter>src\visualizer\user\Components</Filter>
     </ClCompile>
     <ClCompile Include="src\Component.cpp">
-      <Filter>src\Engine\Component</Filter>
+      <Filter>src\visualizer\engine\Component</Filter>
     </ClCompile>
     <ClCompile Include="src\Core.cpp">
-      <Filter>src\Engine\Core</Filter>
+      <Filter>src\visualizer\engine\Core</Filter>
     </ClCompile>
     <ClCompile Include="src\CTestCanvas.cpp">
-      <Filter>src\User\Components</Filter>
+      <Filter>src\visualizer\user\Components</Filter>
     </ClCompile>
     <ClCompile Include="src\ImGuiBuild.cpp">
-      <Filter>src\Engine</Filter>
+      <Filter>src\visualizer\engine</Filter>
     </ClCompile>
     <ClCompile Include="src\ImWindow.cpp">
-      <Filter>src\Engine\ImWindow</Filter>
+      <Filter>src\visualizer\engine\ImWindow</Filter>
     </ClCompile>
     <ClCompile Include="src\main.cpp">
       <Filter>src</Filter>
     </ClCompile>
     <ClCompile Include="src\WCanvas.cpp">
-      <Filter>src\User\ImWindows</Filter>
+      <Filter>src\visualizer\user\ImWindows</Filter>
     </ClCompile>
     <ClCompile Include="src\WHelloWorld.cpp">
-      <Filter>src\User\ImWindows</Filter>
+      <Filter>src\visualizer\user\ImWindows</Filter>
+    </ClCompile>
+    <ClCompile Include="src\WDelaunay.cpp">
+      <Filter>src\visualizer\user\ImWindows</Filter>
+    </ClCompile>
+    <ClCompile Include="src\CDelaunayDrawer.cpp">
+      <Filter>src\visualizer\user\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="src\CCanvas.cpp">
+      <Filter>src\visualizer\user\Components</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\CHelloWorldText.h">
-      <Filter>src\User\Components</Filter>
+      <Filter>src\visualizer\user\Components</Filter>
     </ClInclude>
     <ClInclude Include="src\Component.h">
-      <Filter>src\Engine\Component</Filter>
+      <Filter>src\visualizer\engine\Component</Filter>
     </ClInclude>
     <ClInclude Include="src\Core.h">
-      <Filter>src\Engine\Core</Filter>
+      <Filter>src\visualizer\engine\Core</Filter>
     </ClInclude>
     <ClInclude Include="src\CoreInitializer.h">
-      <Filter>src\Engine\Core</Filter>
+      <Filter>src\visualizer\engine\Core</Filter>
     </ClInclude>
     <ClInclude Include="src\CTestCanvas.h">
-      <Filter>src\User\Components</Filter>
+      <Filter>src\visualizer\user\Components</Filter>
     </ClInclude>
     <ClInclude Include="src\ImWindow.h">
-      <Filter>src\Engine\ImWindow</Filter>
+      <Filter>src\visualizer\engine\ImWindow</Filter>
     </ClInclude>
     <ClInclude Include="src\stdafx.h">
       <Filter>src</Filter>
     </ClInclude>
     <ClInclude Include="src\User.h">
-      <Filter>src\User</Filter>
+      <Filter>src\visualizer\user</Filter>
     </ClInclude>
     <ClInclude Include="src\UserComponents.h">
-      <Filter>src\User\Components</Filter>
+      <Filter>src\visualizer\user\Components</Filter>
     </ClInclude>
     <ClInclude Include="src\UserImWindows.h">
-      <Filter>src\User\ImWindows</Filter>
+      <Filter>src\visualizer\user\ImWindows</Filter>
     </ClInclude>
     <ClInclude Include="src\WCanvas.h">
-      <Filter>src\User\ImWindows</Filter>
+      <Filter>src\visualizer\user\ImWindows</Filter>
     </ClInclude>
     <ClInclude Include="src\WHelloWorld.h">
-      <Filter>src\User\ImWindows</Filter>
+      <Filter>src\visualizer\user\ImWindows</Filter>
+    </ClInclude>
+    <ClInclude Include="src\WDelaunay.h">
+      <Filter>src\visualizer\user\ImWindows</Filter>
+    </ClInclude>
+    <ClInclude Include="src\CDelaunayDrawer.h">
+      <Filter>src\visualizer\user\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="src\CCanvas.h">
+      <Filter>src\visualizer\user\Components</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="src\ImWindow.inl">
-      <Filter>src\Engine\ImWindow</Filter>
+      <Filter>src\visualizer\engine\ImWindow</Filter>
     </None>
   </ItemGroup>
 </Project>
