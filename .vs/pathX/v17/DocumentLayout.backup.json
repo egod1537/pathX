@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Desktop\\pathX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\src\\CCanvas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:src\\CCanvas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\src\\imgui_utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:src\\imgui_utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\src\\CCanvas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:src\\CCanvas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\src\\CDelaunayDrawer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:src\\CDelaunayDrawer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\src\\imvec2_utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:src\\imvec2_utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\src\\CDelaunayDrawer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:src\\CDelaunayDrawer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\src\\WDelaunay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:src\\WDelaunay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\src\\WDelaunayTestbed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:src\\WDelaunayTestbed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\src\\WDelaunay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:src\\WDelaunay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\src\\WDelaunayTestbed.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:src\\WDelaunayTestbed.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\src\\CoreInitializer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:src\\CoreInitializer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\src\\CDelaunayDrawer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:src\\CDelaunayDrawer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\src\\CCanvas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:src\\CCanvas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\src\\CCanvas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|solutionrelative:src\\CCanvas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22323995-A045-45FD-8C14-1AC2D4C7F387}|pathX.vcxproj|C:\\Desktop\\pathX\\src\\UserComponents.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -66,45 +78,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "imgui_utils.h",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\src\\imgui_utils.h",
+              "RelativeDocumentMoniker": "src\\imgui_utils.h",
+              "ToolTip": "C:\\Desktop\\pathX\\src\\imgui_utils.h",
+              "RelativeToolTip": "src\\imgui_utils.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-03T09:37:05.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WDelaunayTestbed.cpp",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\src\\WDelaunayTestbed.cpp",
+              "RelativeDocumentMoniker": "src\\WDelaunayTestbed.cpp",
+              "ToolTip": "C:\\Desktop\\pathX\\src\\WDelaunayTestbed.cpp",
+              "RelativeToolTip": "src\\WDelaunayTestbed.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T09:05:31.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WDelaunayTestbed.h",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\src\\WDelaunayTestbed.h",
+              "RelativeDocumentMoniker": "src\\WDelaunayTestbed.h",
+              "ToolTip": "C:\\Desktop\\pathX\\src\\WDelaunayTestbed.h",
+              "RelativeToolTip": "src\\WDelaunayTestbed.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-03T09:05:30.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoreInitializer.h",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\src\\CoreInitializer.h",
+              "RelativeDocumentMoniker": "src\\CoreInitializer.h",
+              "ToolTip": "C:\\Desktop\\pathX\\src\\CoreInitializer.h",
+              "RelativeToolTip": "src\\CoreInitializer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-03T09:04:20.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CCanvas.h",
               "DocumentMoniker": "C:\\Desktop\\pathX\\src\\CCanvas.h",
               "RelativeDocumentMoniker": "src\\CCanvas.h",
               "ToolTip": "C:\\Desktop\\pathX\\src\\CCanvas.h",
               "RelativeToolTip": "src\\CCanvas.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-02T15:40:31.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CDelaunayDrawer.h",
               "DocumentMoniker": "C:\\Desktop\\pathX\\src\\CDelaunayDrawer.h",
               "RelativeDocumentMoniker": "src\\CDelaunayDrawer.h",
               "ToolTip": "C:\\Desktop\\pathX\\src\\CDelaunayDrawer.h",
               "RelativeToolTip": "src\\CDelaunayDrawer.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-02T15:33:55.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WDelaunay.h",
-              "DocumentMoniker": "C:\\Desktop\\pathX\\src\\WDelaunay.h",
-              "RelativeDocumentMoniker": "src\\WDelaunay.h",
-              "ToolTip": "C:\\Desktop\\pathX\\src\\WDelaunay.h",
-              "RelativeToolTip": "src\\WDelaunay.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T15:28:20.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "WHelloWorld.cpp",
               "DocumentMoniker": "C:\\Desktop\\pathX\\src\\WHelloWorld.cpp",
               "RelativeDocumentMoniker": "src\\WHelloWorld.cpp",
@@ -112,12 +163,11 @@
               "RelativeToolTip": "src\\WHelloWorld.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-02T15:19:17.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T15:19:17.816Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "WCanvas.h",
               "DocumentMoniker": "C:\\Desktop\\pathX\\src\\WCanvas.h",
               "RelativeDocumentMoniker": "src\\WCanvas.h",
@@ -125,12 +175,11 @@
               "RelativeToolTip": "src\\WCanvas.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T15:19:16.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T15:19:16.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "CHelloWorldText.h",
               "DocumentMoniker": "C:\\Desktop\\pathX\\src\\CHelloWorldText.h",
               "RelativeDocumentMoniker": "src\\CHelloWorldText.h",
@@ -138,12 +187,11 @@
               "RelativeToolTip": "src\\CHelloWorldText.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T15:33:02.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T15:33:02.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "WHelloWorld.h",
               "DocumentMoniker": "C:\\Desktop\\pathX\\src\\WHelloWorld.h",
               "RelativeDocumentMoniker": "src\\WHelloWorld.h",
@@ -151,12 +199,11 @@
               "RelativeToolTip": "src\\WHelloWorld.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T15:19:13.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T15:19:13.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Desktop\\pathX\\src\\main.cpp",
               "RelativeDocumentMoniker": "src\\main.cpp",
@@ -164,31 +211,30 @@
               "RelativeToolTip": "src\\main.cpp",
               "ViewState": "AgIAAA8AAAAAAAAAAAAawB0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-01T13:21:16.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T13:21:16.632Z"
             }
           ]
         },
         {
           "DockedWidth": 204,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserComponents.h",
-              "DocumentMoniker": "C:\\Desktop\\pathX\\src\\UserComponents.h",
-              "RelativeDocumentMoniker": "src\\UserComponents.h",
-              "ToolTip": "C:\\Desktop\\pathX\\src\\UserComponents.h",
-              "RelativeToolTip": "src\\UserComponents.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "imvec2_utils.h",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\src\\imvec2_utils.h",
+              "RelativeDocumentMoniker": "src\\imvec2_utils.h",
+              "ToolTip": "C:\\Desktop\\pathX\\src\\imvec2_utils.h",
+              "RelativeToolTip": "src\\imvec2_utils.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T15:34:50.664Z",
+              "WhenOpened": "2025-05-03T09:37:29.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "memory",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\memory",
               "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\memory",
@@ -196,47 +242,45 @@
               "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\memory",
               "ViewState": "AgIAAAQOAAAAAAAAAAAAABQOAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-01T13:00:33.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T13:00:33.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "CCanvas.cpp",
               "DocumentMoniker": "C:\\Desktop\\pathX\\src\\CCanvas.cpp",
               "RelativeDocumentMoniker": "src\\CCanvas.cpp",
               "ToolTip": "C:\\Desktop\\pathX\\src\\CCanvas.cpp",
               "RelativeToolTip": "src\\CCanvas.cpp",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAACcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-02T15:40:42.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WDelaunay.cpp",
-              "DocumentMoniker": "C:\\Desktop\\pathX\\src\\WDelaunay.cpp",
-              "RelativeDocumentMoniker": "src\\WDelaunay.cpp",
-              "ToolTip": "C:\\Desktop\\pathX\\src\\WDelaunay.cpp",
-              "RelativeToolTip": "src\\WDelaunay.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-02T15:28:42.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CDelaunayDrawer.cpp",
               "DocumentMoniker": "C:\\Desktop\\pathX\\src\\CDelaunayDrawer.cpp",
               "RelativeDocumentMoniker": "src\\CDelaunayDrawer.cpp",
               "ToolTip": "C:\\Desktop\\pathX\\src\\CDelaunayDrawer.cpp",
               "RelativeToolTip": "src\\CDelaunayDrawer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-02T15:33:59.845Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserComponents.h",
+              "DocumentMoniker": "C:\\Desktop\\pathX\\src\\UserComponents.h",
+              "RelativeDocumentMoniker": "src\\UserComponents.h",
+              "ToolTip": "C:\\Desktop\\pathX\\src\\UserComponents.h",
+              "RelativeToolTip": "src\\UserComponents.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-02T15:34:50.664Z"
             }
           ]
         }

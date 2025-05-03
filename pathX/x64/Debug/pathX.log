@@ -1,2 +1,56 @@
-﻿  CCanvas.cpp
+﻿  CDelaunayDrawer.cpp
+C:\Desktop\pathX\extern\CDT\CDT\include\Triangulation.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'src/CDelaunayDrawer.cpp'을(를) 컴파일하는 중)
+  
+C:\Desktop\pathX\extern\CDT\CDT\include\Triangulation.h(858,34): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  (소스 파일 'src/CDelaunayDrawer.cpp'을(를) 컴파일하는 중)
+      C:\Desktop\pathX\extern\CDT\CDT\include\Triangulation.h(858,34):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Desktop\pathX\src\CDelaunayDrawer.cpp(29,28):
+          컴파일되는 클래스 템플릿 인스턴스화 'CDT::Triangulation<float,CDT::LocatorKDTree<T,32,32,32>>'에 대한 참조를 확인하세요.
+          with
+          [
+              T=float
+          ]
+          C:\Desktop\pathX\extern\CDT\CDT\include\Triangulation.hpp(1671,1):
+          클래스 템플릿 멤버 함수 'void CDT::Triangulation<float,CDT::LocatorKDTree<T,32,32,32>>::insertVertices(const std::vector<CDT::V2d<T>,std::allocator<CDT::V2d<T>>> &)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              T=float
+          ]
+              C:\Desktop\pathX\src\CDelaunayDrawer.cpp(30,20):
+              'CDelaunayDrawer::OnDrawCanvas'에서 'CDT::Triangulation<float,CDT::LocatorKDTree<T,32,32,32>>::insertVertices'에 대한 첫 번째 참조를 확인하세요.
+          with
+          [
+              T=float
+          ]
+          C:\Desktop\pathX\extern\CDT\CDT\include\Triangulation.hpp(1672,12):
+          컴파일되는 함수 템플릿 인스턴스화 'void CDT::Triangulation<float,CDT::LocatorKDTree<T,32,32,32>>::insertVertices<std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,const T&(__cdecl *)(const CDT::V2d<T> &),const T&(__cdecl *)(const CDT::V2d<T> &)>(const TVertexIter,const TVertexIter,TGetVertexCoordX,TGetVertexCoordY)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=float,
+              _Ty=CDT::V2d<float>,
+              TVertexIter=std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<CDT::V2d<float>>>>,
+              TGetVertexCoordX=const float &(__cdecl *)(const CDT::V2d<float> &),
+              TGetVertexCoordY=const float &(__cdecl *)(const CDT::V2d<float> &)
+          ]
+  
+C:\Desktop\pathX\extern\CDT\CDT\include\Triangulation.h(865,30): warning C4244: '*=': 'float'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'src/CDelaunayDrawer.cpp'을(를) 컴파일하는 중)
+  
+C:\Desktop\pathX\extern\CDT\CDT\include\Triangulation.h(866,29): warning C4244: '*=': 'float'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'src/CDelaunayDrawer.cpp'을(를) 컴파일하는 중)
+  
+  ImWindow.cpp
+  WCanvas.cpp
+C:\Desktop\pathX\extern\CDT\CDT\include\Triangulation.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'src/WCanvas.cpp'을(를) 컴파일하는 중)
+  
+  WDelaunayTestbed.cpp
+  WHelloWorld.cpp
+  main.cpp
+C:\Desktop\pathX\src\UserImWindows.h(5,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  (소스 파일 'src/main.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
   pathX.vcxproj -> C:\Desktop\pathX\x64\Debug\pathX.exe
