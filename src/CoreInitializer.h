@@ -11,11 +11,6 @@ std::unique_ptr<ImWindow> CreateHelloWorldWindow() {
 	return window;
 }
 
-std::unique_ptr<ImWindow> CreateCanvasWindow() {
-	auto window = std::make_unique<WCanvas>("Canvas");
-	return window;
-}
-
 std::unique_ptr<ImWindow> CreateDelaunayTestbedWindow() {
 	auto window = std::make_unique<WDelaunayTestbed>("Delaunay Testbed");
 	return window;
@@ -23,7 +18,6 @@ std::unique_ptr<ImWindow> CreateDelaunayTestbedWindow() {
 
 void CoreInitialize(Core* core) {
 	core->AddWindow(CreateHelloWorldWindow());
-	core->AddWindow(CreateCanvasWindow());
 	core->AddWindow(CreateDelaunayTestbedWindow());
 }
 

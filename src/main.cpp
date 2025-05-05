@@ -156,11 +156,11 @@ void CleanupRenderTarget()
 }
 
 void OpenConsole() {
-    AllocConsole(); // 콘솔 할당
+    AllocConsole(); // ??? ???
     FILE* stream;
-    freopen_s(&stream, "CONOUT$", "w", stdout);  // stdout 리디렉션
-    freopen_s(&stream, "CONOUT$", "w", stderr);  // stderr 리디렉션
-    freopen_s(&stream, "CONIN$", "r", stdin);    // stdin 리디렉션
+    freopen_s(&stream, "CONOUT$", "w", stdout);  // stdout ?????
+    freopen_s(&stream, "CONOUT$", "w", stderr);  // stderr ?????
+    freopen_s(&stream, "CONIN$", "r", stdin);    // stdin ?????
 
     std::cout.clear();
     std::cerr.clear();

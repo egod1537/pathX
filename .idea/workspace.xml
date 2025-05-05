@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="6" type="long" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="pathX" targetName="pathX" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="095f4514-f23d-43d9-92ba-aec841c6e516" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/extern/imgui/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_android_opengl3/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_android_opengl3/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_glfw_opengl2/example_glfw_opengl2.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_glfw_opengl2/example_glfw_opengl2.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_glfw_opengl3/example_glfw_opengl3.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_glfw_opengl3/example_glfw_opengl3.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_glfw_vulkan/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_glfw_vulkan/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_glfw_vulkan/example_glfw_vulkan.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_glfw_vulkan/example_glfw_vulkan.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_glfw_wgpu/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_glfw_wgpu/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_sdl2_directx11/example_sdl2_directx11.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_sdl2_directx11/example_sdl2_directx11.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_sdl2_opengl2/example_sdl2_opengl2.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_sdl2_opengl2/example_sdl2_opengl2.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_sdl2_opengl3/example_sdl2_opengl3.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_sdl2_opengl3/example_sdl2_opengl3.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_sdl2_sdlrenderer2/example_sdl2_sdlrenderer2.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_sdl2_sdlrenderer2/example_sdl2_sdlrenderer2.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_sdl2_vulkan/example_sdl2_vulkan.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_sdl2_vulkan/example_sdl2_vulkan.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_sdl3_opengl3/example_sdl3_opengl3.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_sdl3_opengl3/example_sdl3_opengl3.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_sdl3_sdlgpu3/example_sdl3_sdlgpu3.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_sdl3_sdlgpu3/example_sdl3_sdlgpu3.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_sdl3_sdlrenderer3/example_sdl3_sdlrenderer3.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_sdl3_sdlrenderer3/example_sdl3_sdlrenderer3.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_sdl3_vulkan/example_sdl3_vulkan.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_sdl3_vulkan/example_sdl3_vulkan.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_win32_directx10/example_win32_directx10.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_win32_directx10/example_win32_directx10.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_win32_directx11/example_win32_directx11.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_win32_directx11/example_win32_directx11.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_win32_directx12/example_win32_directx12.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_win32_directx12/example_win32_directx12.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_win32_directx9/example_win32_directx9.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_win32_directx9/example_win32_directx9.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_win32_opengl3/example_win32_opengl3.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_win32_opengl3/example_win32_opengl3.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/examples/example_win32_vulkan/example_win32_vulkan.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/examples/example_win32_vulkan/example_win32_vulkan.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/imgui/imgui_widgets.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/extern/imgui/imgui_widgets.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/extern/imgui" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="tdmQ5rSU" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2wc9VNnCPxADkYBbKhyBeHB9Iwm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;CMake Application.pathX.executor&quot;: &quot;Debug&quot;,
+    &quot;CMake Application.untitled.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;cf.advertisement.text.has.clang-format&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/egod1/CLionProjects/pathX&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/egod1/CLionProjects/untitled/main.cpp&quot;,
+    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CMakeSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\egod1\CLionProjects\pathX\extern" />
+      <recent name="C:\Users\egod1\CLionProjects\untitled\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="pathX" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pathX" TARGET_NAME="pathX" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pathX" RUN_TARGET_NAME="pathX">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="095f4514-f23d-43d9-92ba-aec841c6e516" name="Changes" comment="" />
+      <created>1746330017455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746330017455</updated>
+      <workItem from="1746330018871" duration="549000" />
+      <workItem from="1746330599660" duration="67000" />
+      <workItem from="1746330733000" duration="2000" />
+      <workItem from="1746330755443" duration="88000" />
+      <workItem from="1746330857208" duration="147000" />
+      <workItem from="1746446188499" duration="3491000" />
+      <workItem from="1746454441043" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>

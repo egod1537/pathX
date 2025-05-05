@@ -1,0 +1,3 @@
+C:/Users/egod1/CLionProjects/pathX/cmake-build-debug/CMakeFiles/pathX.dir
+C:/Users/egod1/CLionProjects/pathX/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/egod1/CLionProjects/pathX/cmake-build-debug/CMakeFiles/rebuild_cache.dir
